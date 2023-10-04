@@ -1,7 +1,38 @@
-# Group-7
+# Advantage
+## Introduction
 
-Group Project: Collaborative repository for our Computer Science project at UCD. Developing an innovative solution to businesses seeking optimal locations in New York. Code, docs, and communication hub for seamless teamwork. Stay tuned for updates on our progress!
+This is the summer group project. We developed a React + Django web application for advertisers to find busy areas in New York City utilizing machine learning model.
 
+## Screenshots for key features
+![login](https://github.com/CraneWvs/Pictures/blob/main/Advantage/login.png)
+
+login page
+
+![home_page](https://github.com/CraneWvs/Pictures/blob/main/Advantage/home1.png)
+
+home page
+
+![solutions_page_overview](https://github.com/CraneWvs/Pictures/blob/main/Advantage/solutions2.png)
+
+solution page overview
+
+![zone_detail](https://github.com/CraneWvs/Pictures/blob/main/Advantage/map-viewer-mode1.png)
+
+zone detail
+
+![compare_tool](https://github.com/CraneWvs/Pictures/blob/main/Advantage/solutions-compare-board1.png)
+
+compare tool 1
+
+![compare_tool](https://github.com/CraneWvs/Pictures/blob/main/Advantage/solutions-compare-board2.png)
+
+compare tool 2
+
+![save_page](https://github.com/CraneWvs/Pictures/blob/main/Advantage/save%20page%202.png)
+
+bookmark page
+
+# Run
 Follow these steps to set up the project on your local machine:
 
 ## Set up the environment
